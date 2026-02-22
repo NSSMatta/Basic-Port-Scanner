@@ -15,3 +15,4 @@ Run the script with Python 3:
 python port_scanner.py 127.0.0.1 -p 1-1000
 ```
 This will scan the first 1000 ports on localhost.
+YOLO Badge Update
